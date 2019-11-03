@@ -1,0 +1,10 @@
+[package]
+name = "challenge4"
+version = "0.1.0"
+authors = ["Matt Sadler <matt.sadler@mybluprint.com>"]
+edition = "2019"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+unicode-segmentation = "1.4.0"
